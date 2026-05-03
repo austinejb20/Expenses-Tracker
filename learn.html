@@ -17,7 +17,7 @@ async function fetchWeather(city) {
 }
 
 function createWeatherCard(data) {
-  if (data.cod !== 200) {
+  if (data.cod !== 300) {
     alert("City not found!");
     return;
   }
