@@ -8,9 +8,9 @@ A simple and responsive expense tracker application that allows users to manage 
 - Transaction display list
 - Delete transaction option
 - Simple and user-friendly interface
-- ## Technology Used
+ ## Technology Used
 - HTML
 - CSS
 - JavaScript
-- Author
+## Author
 - Austine 
